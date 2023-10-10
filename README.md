@@ -1,4 +1,5 @@
 # jupyterlab-GPU-env
+* windows環境においてwsl 2が実行可能であると想定します。
 * NGCコンテナを使ってGPU分析環境を作ります。  
 * まずはDockerfileを使ってイメージをbuildします。
 ```
